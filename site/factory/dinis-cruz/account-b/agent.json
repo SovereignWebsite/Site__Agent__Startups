@@ -41,11 +41,20 @@
   "The first handed-over owner's site: off the showroom, since its address names its owner (record 2026-11-23__asks-2-8-31-revised)",
   "Optional material: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC)"
  ],
- "updated": "2026-11-24T00:53Z",
+ "updated": "2026-11-24T02:08Z",
  "read": {
   "role": "dinis-cruz/account-b/role.md",
   "learnings": "dinis-cruz/account-b/learnings.md",
   "messages": "dinis-cruz/account-b/messages.md",
-  "decisions": "dinis-cruz/account-b/decisions.md"
- }
+  "decisions": "dinis-cruz/account-b/decisions.md",
+  "restart": "dinis-cruz/account-b/restart.md"
+ },
+ "active_until": "2026-12-01T02:08Z",
+ "open_work": [
+  "Round 19 of design.b.rounds runs on the next real content change; none is pending.",
+  "Copy factory.b's build.mjs (version chip at 15 px) into the five brochures once its commit e97723d reaches the Factory's dev.",
+  "Optional material, none blocking: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC).",
+  "The first handed-over owner's name remains in older commits of Site__Startups__Sovereign-Website; removing it means rewriting history, so it waits on Dinis's word."
+ ],
+ "requests": []
 }
