@@ -1,0 +1,12 @@
+{
+ "type": "startups",
+ "agents": [
+  {
+   "name": "startups.b",
+   "owner": "dinis-cruz",
+   "account": "account-b",
+   "agent_json": "/factory/dinis-cruz/account-b/agent.json"
+  }
+ ],
+ "updated": "2026-11-24T13:21Z"
+}

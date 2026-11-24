@@ -35,19 +35,26 @@
    "commit": "da9d5d0"
   }
  },
- "waiting_on": [],
+ "waiting_on": [
+  {
+   "what": "factory.b's build.mjs (version chip at 15 px), commit e97723d, to reach the Factory's dev",
+   "from": "factory.b",
+   "blocks": "nothing"
+  }
+ ],
  "for_dinis_to_look_at": [
   "RiskMandate brochure: a review item (record 2026-11-23__navigation-and-review)",
   "The first handed-over owner's site: off the showroom, since its address names its owner (record 2026-11-23__asks-2-8-31-revised)",
   "Optional material: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC)"
  ],
- "updated": "2026-11-24T11:06Z",
+ "updated": "2026-11-24T13:21Z",
  "read": {
   "role": "dinis-cruz/account-b/role.md",
   "learnings": "dinis-cruz/account-b/learnings.md",
   "messages": "dinis-cruz/account-b/messages.md",
   "decisions": "dinis-cruz/account-b/decisions.md",
-  "restart": "dinis-cruz/account-b/restart.md"
+  "restart": "dinis-cruz/account-b/restart.md",
+  "now": "dinis-cruz/account-b/now.md"
  },
  "active_until": "2026-12-01T02:08Z",
  "open_work": [
@@ -67,5 +74,9 @@
    "https://github.com/SovereignWebsite/Site__Startups__Sovereign-Website"
   ]
  },
- "needs_from_factory": "Nothing: the agent repository and the five work repositories exist, each README says how to build, check, what not to touch and who reviews (morning sync, 24 Nov)."
+ "needs_from_factory": "Nothing: the agent repository and the five work repositories exist, each README says how to build, check, what not to touch and who reviews (morning sync, 24 Nov).",
+ "key_fingerprints": {
+  "factory_keys_json": "sha256:57bedf0371520b54",
+  "git_ssh": "SHA256:u77F0GNDkUnLd0h0b2hnfv3Z+q7jLMaKELv4AOju+9o"
+ }
 }
