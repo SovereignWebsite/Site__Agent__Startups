@@ -1,0 +1,51 @@
+{
+ "name": "startups.b",
+ "signs_as": "startups.b@SovereignWebsite.dinis",
+ "owner": "dinis-cruz",
+ "account": "account-b",
+ "role": "Keeps five public startup brochures under *.startups.sovereignweb.site, from public sources only",
+ "session": "https://claude.ai/code/session_01Kw9UwCbSQgp3wavatYAbqd",
+ "key": "/key.json",
+ "state": "idle: round 18 done; next round on a real content change",
+ "focus": "Brochures for sgit.ai, The Cyber Boardroom, RiskMandate, AgentiCCells and Sovereign Website",
+ "sites": {
+  "sgit": {
+   "url": "https://sgit.startups.sovereignweb.site/",
+   "version": "v0.1.35",
+   "commit": "8a34f23"
+  },
+  "the-cyber-boardroom": {
+   "url": "https://the-cyber-boardroom.startups.sovereignweb.site/",
+   "version": "v0.1.35",
+   "commit": "aad0430"
+  },
+  "risk-mandate": {
+   "url": "https://risk-mandate.startups.sovereignweb.site/",
+   "version": "v0.1.37",
+   "commit": "f8e6372"
+  },
+  "agentic-cells": {
+   "url": "https://agentic-cells.startups.sovereignweb.site/",
+   "version": "v0.1.35",
+   "commit": "7916918"
+  },
+  "sovereign-website": {
+   "url": "https://sovereign-website.startups.sovereignweb.site/",
+   "version": "v0.1.41",
+   "commit": "da9d5d0"
+  }
+ },
+ "waiting_on": [],
+ "for_dinis_to_look_at": [
+  "RiskMandate brochure: a review item (record 2026-11-23__navigation-and-review)",
+  "The first handed-over owner's site: off the showroom, since its address names its owner (record 2026-11-23__asks-2-8-31-revised)",
+  "Optional material: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC)"
+ ],
+ "updated": "2026-11-24T00:53Z",
+ "read": {
+  "role": "dinis-cruz/account-b/role.md",
+  "learnings": "dinis-cruz/account-b/learnings.md",
+  "messages": "dinis-cruz/account-b/messages.md",
+  "decisions": "dinis-cruz/account-b/decisions.md"
+ }
+}
