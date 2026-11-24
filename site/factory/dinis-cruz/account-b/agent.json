@@ -41,7 +41,7 @@
   "The first handed-over owner's site: off the showroom, since its address names its owner (record 2026-11-23__asks-2-8-31-revised)",
   "Optional material: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC)"
  ],
- "updated": "2026-11-24T02:08Z",
+ "updated": "2026-11-24T11:06Z",
  "read": {
   "role": "dinis-cruz/account-b/role.md",
   "learnings": "dinis-cruz/account-b/learnings.md",
@@ -56,5 +56,16 @@
   "Optional material, none blocking: a published Athena answer (TCB); a public stopped-cell record and team photo names (AC).",
   "The first handed-over owner's name remains in older commits of Site__Startups__Sovereign-Website; removing it means rewriting history, so it waits on Dinis's word."
  ],
- "requests": []
+ "requests": [],
+ "repositories": {
+  "agent": "https://github.com/SovereignWebsite/Site__Agent__Startups",
+  "work": [
+   "https://github.com/SovereignWebsite/Site__Startups__Sgit",
+   "https://github.com/SovereignWebsite/Site__Startups__The-Cyber-Boardroom",
+   "https://github.com/SovereignWebsite/Site__Startups__Risk-Mandate",
+   "https://github.com/SovereignWebsite/Site__Startups__Agentic-Cells",
+   "https://github.com/SovereignWebsite/Site__Startups__Sovereign-Website"
+  ]
+ },
+ "needs_from_factory": "Nothing: the agent repository and the five work repositories exist, each README says how to build, check, what not to touch and who reviews (morning sync, 24 Nov)."
 }
